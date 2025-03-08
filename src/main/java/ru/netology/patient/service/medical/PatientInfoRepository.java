@@ -1,4 +1,4 @@
-package ru.netology.patient.repository;
+package ru.netology.patient.service.medical;
 
 import ru.netology.patient.entity.PatientInfo;
 

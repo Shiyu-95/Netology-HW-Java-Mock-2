@@ -10,8 +10,8 @@ import java.math.BigDecimal;
 import java.time.LocalDate;
 
 import ru.netology.patient.entity.*;
-import ru.netology.patient.repository.PatientInfoFileRepository;
-import ru.netology.patient.repository.PatientInfoRepository;
+import ru.netology.patient.service.medical.PatientInfoFileRepository;
+import ru.netology.patient.service.medical.PatientInfoRepository;
 import ru.netology.patient.service.alert.SendAlertService;
 import ru.netology.patient.service.alert.SendAlertServiceImpl;
 import ru.netology.patient.service.medical.MedicalService;
